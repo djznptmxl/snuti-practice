@@ -1,1 +1,1 @@
-snuti-practice.github.io
+snuti-practice
